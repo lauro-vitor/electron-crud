@@ -1,0 +1,7 @@
+@import url('NavBar.css');
+@import url('Form.css');
+@import url('Radio.css');
+body{
+    margin:0;
+    padding:0;
+}

@@ -1,0 +1,35 @@
+form {
+    width: 60%;
+    margin: 10px auto 10px auto;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+    font-size: 1.2em;
+    outline: none;
+}
+.titleInput {
+    font-size: 1.3em;
+}
+.formRow {
+    margin: 10px 0;
+}
+
+.errorMessage {
+    visibility: hidden;
+    color: red;
+}
+
+.submitButton {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
